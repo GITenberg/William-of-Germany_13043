@@ -1,0 +1,27 @@
+_repo: William-of-Germany_13043
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shaw, Stanley
+    birthdate: 1870
+    gutenberg_agent_id: '4796'
+    url: http://www.gutenberg.org/2009/agents/4796
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2004-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13043'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Politics and government -- 1888-1918'
+- !lcc 'DD'
+- !lcsh 'William II, German Emperor, 1859-1941'
+title: William of Germany
+url: http://www.gutenberg.org/ebooks/13043
