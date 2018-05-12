@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '4796'
     url: http://www.gutenberg.org/2009/agents/4796
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13043#William-of-Germany
 gutenberg_bookshelf: Germany
 gutenberg_issued: '2004-07-28'
 gutenberg_type: Text
